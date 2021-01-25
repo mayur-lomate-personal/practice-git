@@ -1,11 +1,12 @@
 #include <iostream>
 
-
+<<<<<<< HEAD
 int hh() {
 	std::cout<<"h";
-}
+=======
 void fun() {
 	std::cout<<"fun";
+>>>>>>> 6cc3009 (Added fun and edited add function)
 }
 
 int main() {
